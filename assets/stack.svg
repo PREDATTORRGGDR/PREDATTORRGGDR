@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" fill="none">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#0b1a3a"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1"/>
+</linearGradient>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#38bdf8" stop-opacity=".55"/>
+  <stop offset=".5" stop-color="#1e3a8a" stop-opacity=".35"/>
+  <stop offset="1" stop-color="#6366f1" stop-opacity=".55"/>
+</linearGradient>
+<radialGradient id="glowA"><stop offset="0" stop-color="#38bdf8" stop-opacity=".35"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowB"><stop offset="0" stop-color="#6366f1" stop-opacity=".30"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path d="M32 0H0V32" fill="none" stroke="#1e3a8a" stroke-opacity=".28" stroke-width="1"/>
+</pattern>
+
+<clipPath id="frame"><rect width="1000" height="330" rx="22"/></clipPath>
+</defs>
+<style>
+text{font-family:'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif;}
+.mono{font-family:'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace;}
+@keyframes pop{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.pill{opacity:0;animation:pop .45s ease-out forwards}
+</style>
+<g clip-path="url(#frame)">
+<rect width="1000" height="330" fill="url(#bg)"/>
+<rect width="1000" height="330" fill="url(#grid)"/>
+<circle cx="0" cy="330" r="280" fill="url(#glowA)"/><text x="50" y="50" class="mono" font-size="13" fill="#38bdf8" letter-spacing="3">03</text>
+<text x="88" y="50" font-size="13" fill="#94a3b8" letter-spacing="3" font-weight="600">СТЕК</text>
+<rect x="50" y="62" width="44" height="3" rx="1.5" fill="url(#accent)"/><text x="50" y="134" font-size="15" fill="#64748b" font-weight="600">Языки</text><g class="pill" style="animation-delay:0.15s">
+<rect x="200" y="112" width="96" height="34" rx="17" fill="#0a1531" stroke="#3b82f6" stroke-opacity=".45"/>
+<circle cx="218" cy="129" r="5" fill="#3b82f6"/>
+<text x="230" y="134" font-size="15" fill="#e2e8f0">Python</text></g><g class="pill" style="animation-delay:0.21s">
+<rect x="305.6" y="112" width="130" height="34" rx="17" fill="#0a1531" stroke="#38bdf8" stroke-opacity=".45"/>
+<circle cx="323.6" cy="129" r="5" fill="#38bdf8"/>
+<text x="335.6" y="134" font-size="15" fill="#e2e8f0">TypeScript</text></g><g class="pill" style="animation-delay:0.27s">
+<rect x="445.6" y="112" width="130" height="34" rx="17" fill="#0a1531" stroke="#facc15" stroke-opacity=".45"/>
+<circle cx="463.6" cy="129" r="5" fill="#facc15"/>
+<text x="475.6" y="134" font-size="15" fill="#e2e8f0">JavaScript</text></g><g class="pill" style="animation-delay:0.33s">
+<rect x="585.6" y="112" width="61" height="34" rx="17" fill="#0a1531" stroke="#a78bfa" stroke-opacity=".45"/>
+<circle cx="603.6" cy="129" r="5" fill="#a78bfa"/>
+<text x="615.6" y="134" font-size="15" fill="#e2e8f0">C#</text></g><g class="pill" style="animation-delay:0.39s">
+<rect x="656.8000000000001" y="112" width="70" height="34" rx="17" fill="#0a1531" stroke="#60a5fa" stroke-opacity=".45"/>
+<circle cx="674.8000000000001" cy="129" r="5" fill="#60a5fa"/>
+<text x="686.8000000000001" y="134" font-size="15" fill="#e2e8f0">C++</text></g><g class="pill" style="animation-delay:0.45s">
+<rect x="736.6" y="112" width="70" height="34" rx="17" fill="#0a1531" stroke="#818cf8" stroke-opacity=".45"/>
+<circle cx="754.6" cy="129" r="5" fill="#818cf8"/>
+<text x="766.6" y="134" font-size="15" fill="#e2e8f0">Lua</text></g><text x="50" y="200" font-size="15" fill="#64748b" font-weight="600">Бэкенд и AI</text><g class="pill" style="animation-delay:0.40s">
+<rect x="200" y="178" width="104" height="34" rx="17" fill="#0a1531" stroke="#2dd4bf" stroke-opacity=".45"/>
+<circle cx="218" cy="195" r="5" fill="#2dd4bf"/>
+<text x="230" y="200" font-size="15" fill="#e2e8f0">FastAPI</text></g><g class="pill" style="animation-delay:0.46s">
+<rect x="314.2" y="178" width="104" height="34" rx="17" fill="#0a1531" stroke="#4ade80" stroke-opacity=".45"/>
+<circle cx="332.2" cy="195" r="5" fill="#4ade80"/>
+<text x="344.2" y="200" font-size="15" fill="#e2e8f0">Node.js</text></g><g class="pill" style="animation-delay:0.52s">
+<rect x="428.4" y="178" width="96" height="34" rx="17" fill="#0a1531" stroke="#f87171" stroke-opacity=".45"/>
+<circle cx="446.4" cy="195" r="5" fill="#f87171"/>
+<text x="458.4" y="200" font-size="15" fill="#e2e8f0">OpenCV</text></g><g class="pill" style="animation-delay:0.58s">
+<rect x="534.0" y="178" width="78" height="34" rx="17" fill="#0a1531" stroke="#a78bfa" stroke-opacity=".45"/>
+<circle cx="552.0" cy="195" r="5" fill="#a78bfa"/>
+<text x="564.0" y="200" font-size="15" fill="#e2e8f0">.NET</text></g><g class="pill" style="animation-delay:0.64s">
+<rect x="622.4" y="178" width="182" height="34" rx="17" fill="#0a1531" stroke="#38bdf8" stroke-opacity=".45"/>
+<circle cx="640.4" cy="195" r="5" fill="#38bdf8"/>
+<text x="652.4" y="200" font-size="15" fill="#e2e8f0">Telegram Bot API</text></g><g class="pill" style="animation-delay:0.70s">
+<rect x="814.0" y="178" width="139" height="34" rx="17" fill="#0a1531" stroke="#e879f9" stroke-opacity=".45"/>
+<circle cx="832.0" cy="195" r="5" fill="#e879f9"/>
+<text x="844.0" y="200" font-size="15" fill="#e2e8f0">LLM / GenAI</text></g><text x="50" y="266" font-size="15" fill="#64748b" font-weight="600">Инструменты</text><g class="pill" style="animation-delay:0.65s">
+<rect x="200" y="244" width="70" height="34" rx="17" fill="#0a1531" stroke="#fb923c" stroke-opacity=".45"/>
+<circle cx="218" cy="261" r="5" fill="#fb923c"/>
+<text x="230" y="266" font-size="15" fill="#e2e8f0">Git</text></g><g class="pill" style="animation-delay:0.71s">
+<rect x="279.8" y="244" width="104" height="34" rx="17" fill="#0a1531" stroke="#38bdf8" stroke-opacity=".45"/>
+<circle cx="297.8" cy="261" r="5" fill="#38bdf8"/>
+<text x="309.8" y="266" font-size="15" fill="#e2e8f0">VS Code</text></g><g class="pill" style="animation-delay:0.77s">
+<rect x="394.0" y="244" width="96" height="34" rx="17" fill="#0a1531" stroke="#60a5fa" stroke-opacity=".45"/>
+<circle cx="412.0" cy="261" r="5" fill="#60a5fa"/>
+<text x="424.0" y="266" font-size="15" fill="#e2e8f0">Docker</text></g><g class="pill" style="animation-delay:0.83s">
+<rect x="499.6" y="244" width="87" height="34" rx="17" fill="#0a1531" stroke="#f472b6" stroke-opacity=".45"/>
+<circle cx="517.6" cy="261" r="5" fill="#f472b6"/>
+<text x="529.6" y="266" font-size="15" fill="#e2e8f0">Figma</text></g><g class="pill" style="animation-delay:0.89s">
+<rect x="596.6" y="244" width="104" height="34" rx="17" fill="#0a1531" stroke="#7dd3fc" stroke-opacity=".45"/>
+<circle cx="614.6" cy="261" r="5" fill="#7dd3fc"/>
+<text x="626.6" y="266" font-size="15" fill="#e2e8f0">Windows</text></g><g class="pill" style="animation-delay:0.95s">
+<rect x="710.8" y="244" width="87" height="34" rx="17" fill="#0a1531" stroke="#facc15" stroke-opacity=".45"/>
+<circle cx="728.8" cy="261" r="5" fill="#facc15"/>
+<text x="740.8" y="266" font-size="15" fill="#e2e8f0">Linux</text></g>
+</g>
+<rect x=".75" y=".75" width="998.5" height="328.5" rx="21.5" stroke="url(#stroke)" stroke-width="1.5"/>
+</svg>
