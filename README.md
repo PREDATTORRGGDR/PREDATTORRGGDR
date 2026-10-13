@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="kyrapyto — indie developer & founder"/>
+  <img src="./assets/hero-v3.svg" width="100%" alt="kyrapyto — indie developer & founder"/>
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="Who is this guy"/>
+  <img src="./assets/about-v3.svg" width="100%" alt="Who is this guy"/>
 </p>
 
 <p align="center">
-  <img src="./assets/title-projects.svg" width="100%" alt="Projects"/>
+  <img src="./assets/title-projects-v3.svg" width="100%" alt="Projects"/>
 </p>
 
 <p align="center">
-  <a href="https://t.me/GlowLabRobot"><img src="./assets/card-glowlab.svg" width="49%" alt="GlowLab"/></a>
-  <a href="https://t.me/Sebyashka_Sticker_Bot"><img src="./assets/card-sebyashka.svg" width="49%" alt="Sebyashka"/></a>
-  <a href="https://github.com/PREDATTORRGGDR/Human-Plus"><img src="./assets/card-humanplus.svg" width="49%" alt="Human-Plus"/></a>
-  <a href="https://github.com/PREDATTORRGGDR?tab=repositories"><img src="./assets/card-tools.svg" width="49%" alt="AXEdex · AxelCreaner"/></a>
+  <a href="https://t.me/GlowLabRobot"><img src="./assets/card-glowlab-v3.svg" width="49%" alt="GlowLab"/></a>
+  <a href="https://t.me/Sebyashka_Sticker_Bot"><img src="./assets/card-sebyashka-v3.svg" width="49%" alt="Sebyashka"/></a>
+  <a href="https://github.com/PREDATTORRGGDR/Human-Plus"><img src="./assets/card-humanplus-v3.svg" width="49%" alt="Human-Plus"/></a>
+  <a href="https://github.com/PREDATTORRGGDR?tab=repositories"><img src="./assets/card-tools-v3.svg" width="49%" alt="AXEdex · AxelCreaner"/></a>
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Stack"/>
+  <img src="./assets/stack-v3.svg" width="100%" alt="Stack"/>
 </p>
 
 <p align="center">
-  <img src="./assets/title-stats.svg" width="100%" alt="Stats"/>
+  <img src="./assets/title-stats-v3.svg" width="100%" alt="Stats"/>
 </p>
 
 <p align="center">
@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Discipline is the bridge between goals and results"/>
+  <img src="./assets/footer-v3.svg" width="100%" alt="Discipline is the bridge between goals and results"/>
 </p>
