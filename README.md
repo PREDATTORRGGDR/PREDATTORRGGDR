@@ -26,12 +26,12 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PREDATTORRGGDR&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=b9f73e&icon_color=97ce4c&text_color=e8f5e9&rank_icon=github&count_private=true&custom_title=Lab%20Readings" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREDATTORRGGDR&layout=compact&hide_border=true&bg_color=0b0f14&title_color=b9f73e&text_color=e8f5e9&custom_title=Languages" alt="langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PREDATTORRGGDR&show_icons=true&hide_border=true&bg_color=081426&title_color=9fe1ff&icon_color=5ec8f5&text_color=eaf6ff&rank_icon=github&count_private=true&custom_title=Lab%20Readings" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREDATTORRGGDR&layout=compact&hide_border=true&bg_color=081426&title_color=9fe1ff&text_color=eaf6ff&custom_title=Languages" alt="langs"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PREDATTORRGGDR&hide_border=true&background=0B0F14&ring=97CE4C&fire=B9F73E&currStreakLabel=B9F73E&sideLabels=E8F5E9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA7A0&stroke=24343A" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=PREDATTORRGGDR&hide_border=true&background=081426&ring=5EC8F5&fire=B9F73E&currStreakLabel=9FE1FF&sideLabels=EAF6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FB3D9&stroke=1F4F86" alt="streak"/>
 </p>
 
 <p align="center">
