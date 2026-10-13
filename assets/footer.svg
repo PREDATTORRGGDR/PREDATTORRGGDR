@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130">
 <defs><radialGradient id="pg"><stop offset="0" stop-color="#eaffc0"/><stop offset=".3" stop-color="#b9f73e"/><stop offset=".6" stop-color="#97ce4c"/><stop offset=".85" stop-color="#2f6b10"/><stop offset="1" stop-color="#2f6b10" stop-opacity="0"/></radialGradient>
-<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#97ce4c" opacity=".12"/></pattern>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#5ec8f5" stroke-opacity=".09"/></pattern>
 <style>.spin{animation:s 9s linear infinite;transform-box:fill-box;transform-origin:center}.rev{animation:s 4s linear infinite reverse;transform-box:fill-box;transform-origin:center}@keyframes s{to{transform:rotate(360deg)}}.blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style></defs>
-<rect x="3" y="3" width="894" height="124" rx="22" fill="#0b0f14" stroke="#24343a" stroke-width="3"/>
-<rect x="3" y="3" width="894" height="124" rx="22" fill="url(#dots)"/>
+<rect x="3" y="3" width="894" height="124" rx="22" fill="#081426" stroke="#1f4f86" stroke-width="3"/>
+<rect x="3" y="3" width="894" height="124" rx="22" fill="url(#dots)"/><text x="572" y="84" transform="rotate(-4 400 65)" fill="#5ec8f5" fill-opacity=".15" style="font-family:Consolas,'Courier New',monospace" font-size="18">x̄ = ¬sleep</text><text x="702" y="88" transform="rotate(-12 400 65)" fill="#5ec8f5" fill-opacity=".15" style="font-family:Consolas,'Courier New',monospace" font-size="14">∇×B ≈ coffee</text><text x="635" y="73" transform="rotate(-5 400 65)" fill="#5ec8f5" fill-opacity=".15" style="font-family:Consolas,'Courier New',monospace" font-size="14">∫ bugs dt → 0?</text>
 <g transform="translate(450 118)"><circle class="spin" r="300" fill="url(#pg)" opacity=".35"/></g>
-<text x="450" y="70" text-anchor="middle" fill="#e8f5e9" style="font-family:'Trebuchet MS',Verdana,sans-serif" font-weight="800" font-size="24">“Discipline is the bridge between goals and results.”</text>
-<text x="450" y="100" text-anchor="middle" fill="#8fa7a0" style="font-family:Consolas,'Courier New',monospace" font-size="13">© kyrapyto · built between two releases · wubba-lubba-ship-it</text></svg>
+<text x="450" y="70" text-anchor="middle" fill="#eaf6ff" style="font-family:'Trebuchet MS',Verdana,sans-serif" font-weight="800" font-size="24">“Discipline is the bridge between goals and results.”</text>
+<text x="450" y="100" text-anchor="middle" fill="#8fb3d9" style="font-family:Consolas,'Courier New',monospace" font-size="13">© kyrapyto · assembled in a garage between two releases · *burp*</text></svg>
