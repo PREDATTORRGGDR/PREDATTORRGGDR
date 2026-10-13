@@ -1,39 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" fill="none">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#0b1a3a"/>
-</linearGradient>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#6366f1"/>
-</linearGradient>
-<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#38bdf8" stop-opacity=".55"/>
-  <stop offset=".5" stop-color="#1e3a8a" stop-opacity=".35"/>
-  <stop offset="1" stop-color="#6366f1" stop-opacity=".55"/>
-</linearGradient>
-<radialGradient id="glowA"><stop offset="0" stop-color="#38bdf8" stop-opacity=".35"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
-<radialGradient id="glowB"><stop offset="0" stop-color="#6366f1" stop-opacity=".30"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-  <path d="M32 0H0V32" fill="none" stroke="#1e3a8a" stroke-opacity=".28" stroke-width="1"/>
-</pattern>
-
-<clipPath id="frame"><rect width="1000" height="150" rx="22"/></clipPath>
-</defs>
-<style>
-text{font-family:'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif;}
-.mono{font-family:'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace;}
-@keyframes wave{to{transform:translateX(-500px)}}
-.w1{animation:wave 9s linear infinite}.w2{animation:wave 14s linear infinite reverse}
-</style>
-<g clip-path="url(#frame)">
-<rect width="1000" height="150" fill="url(#bg)"/>
-<rect width="1000" height="150" fill="url(#grid)"/>
-
-<g class="w2" opacity=".35"><path d="M0 95 Q125 65 250 95 T500 95 T750 95 T1000 95 T1250 95 T1500 95 V150 H0Z" fill="#1e3a8a" transform="translate(0 6)"/></g>
-<g class="w1" opacity=".55"><path d="M0 95 Q125 65 250 95 T500 95 T750 95 T1000 95 T1250 95 T1500 95 V150 H0Z" fill="url(#accent)" transform="translate(0 22)"/></g>
-<text x="500" y="58" font-size="22" font-weight="700" fill="#e2e8f0" text-anchor="middle">«Дисциплина — мост между целями и результатом»</text>
-<text x="500" y="86" class="mono" font-size="13" fill="#64748b" text-anchor="middle">© kyrapyto · сделано между двумя релизами</text>
-
-</g>
-<rect x=".75" y=".75" width="998.5" height="148.5" rx="21.5" stroke="url(#stroke)" stroke-width="1.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130">
+<defs><radialGradient id="pg"><stop offset="0" stop-color="#eaffc0"/><stop offset=".3" stop-color="#b9f73e"/><stop offset=".6" stop-color="#97ce4c"/><stop offset=".85" stop-color="#2f6b10"/><stop offset="1" stop-color="#2f6b10" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#97ce4c" opacity=".12"/></pattern>
+<style>.spin{animation:s 9s linear infinite;transform-box:fill-box;transform-origin:center}.rev{animation:s 4s linear infinite reverse;transform-box:fill-box;transform-origin:center}@keyframes s{to{transform:rotate(360deg)}}.blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style></defs>
+<rect x="3" y="3" width="894" height="124" rx="22" fill="#0b0f14" stroke="#24343a" stroke-width="3"/>
+<rect x="3" y="3" width="894" height="124" rx="22" fill="url(#dots)"/>
+<g transform="translate(450 118)"><circle class="spin" r="300" fill="url(#pg)" opacity=".35"/></g>
+<text x="450" y="70" text-anchor="middle" fill="#e8f5e9" style="font-family:'Trebuchet MS',Verdana,sans-serif" font-weight="800" font-size="24">“Discipline is the bridge between goals and results.”</text>
+<text x="450" y="100" text-anchor="middle" fill="#8fa7a0" style="font-family:Consolas,'Courier New',monospace" font-size="13">© kyrapyto · built between two releases · wubba-lubba-ship-it</text></svg>
