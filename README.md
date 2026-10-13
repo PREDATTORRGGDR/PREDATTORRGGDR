@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="Кто я"/>
+  <img src="./assets/about.svg" width="100%" alt="Who is this guy"/>
 </p>
 
 <p align="center">
-  <img src="./assets/title-projects.svg" width="100%" alt="Проекты"/>
+  <img src="./assets/title-projects.svg" width="100%" alt="Projects"/>
 </p>
 
 <p align="center">
@@ -18,22 +18,22 @@
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Стек"/>
+  <img src="./assets/stack.svg" width="100%" alt="Stack"/>
 </p>
 
 <p align="center">
-  <img src="./assets/title-stats.svg" width="100%" alt="Статистика"/>
+  <img src="./assets/title-stats.svg" width="100%" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PREDATTORRGGDR&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github&count_private=true&custom_title=GitHub%20Stats" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREDATTORRGGDR&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1&custom_title=%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8" alt="langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PREDATTORRGGDR&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=b9f73e&icon_color=97ce4c&text_color=e8f5e9&rank_icon=github&count_private=true&custom_title=Lab%20Readings" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREDATTORRGGDR&layout=compact&hide_border=true&bg_color=0b0f14&title_color=b9f73e&text_color=e8f5e9&custom_title=Languages" alt="langs"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PREDATTORRGGDR&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B&stroke=1E3A8A" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=PREDATTORRGGDR&hide_border=true&background=0B0F14&ring=97CE4C&fire=B9F73E&currStreakLabel=B9F73E&sideLabels=E8F5E9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA7A0&stroke=24343A" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="footer"/>
+  <img src="./assets/footer.svg" width="100%" alt="Discipline is the bridge between goals and results"/>
 </p>
