@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://t.me/GlowLabRobot"><img src="./assets/card-glowlab-v4.svg" width="49%" alt="GlowLab"/></a>
-  <a href="https://t.me/Sebyashka_Sticker_Bot"><img src="./assets/card-sebyashka-v3.svg" width="49%" alt="Sebyashka"/></a>
+  <a href="https://t.me/Sebyashka_Sticker_Bot"><img src="./assets/card-sebyashka-v4.svg" width="49%" alt="Sebyashka"/></a>
   <a href="https://github.com/PREDATTORRGGDR/Human-Plus"><img src="./assets/card-humanplus-v4.svg" width="49%" alt="Human-Plus"/></a>
   <a href="https://github.com/PREDATTORRGGDR?tab=repositories"><img src="./assets/card-tools-v3.svg" width="49%" alt="AXEdex · AxelCreaner"/></a>
   <a href="https://github.com/PREDATTORRGGDR/GlowLab-Studio"><img src="./assets/card-glowstudio-v5.svg" width="99%" alt="GlowLab Studio"/></a>
